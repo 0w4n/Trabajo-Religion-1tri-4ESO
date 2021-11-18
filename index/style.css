@@ -1,0 +1,31 @@
+.cont-nav {
+    position: sticky;
+    top: 20px;
+    background-color: #8c5a2a;
+}
+
+.ttl {
+     color: white;
+     margin-left: 10px;
+     margin-right: 10px;
+}
+
+.ale{
+    /* bordes */
+    border-color: #8c5a2a;
+    border-radius: 0%;
+    border-style: solid;
+
+    height: 530px;
+    width: 530px ;
+}
+
+.suf {
+    /* bordes */
+    border-color: #8c5a2a;
+    border-radius: 0%;
+    border-style: solid;
+
+    height: 12cm;
+    width: 12cm;
+}
