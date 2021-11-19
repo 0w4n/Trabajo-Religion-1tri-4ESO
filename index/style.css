@@ -10,14 +10,14 @@
      margin-right: 10px;
 }
 
-.ale{
+.dol {
     /* bordes */
     border-color: #8c5a2a;
     border-radius: 0%;
     border-style: solid;
 
     height: 530px;
-    width: 530px ;
+    width: 530px;
 }
 
 .suf {
@@ -30,7 +30,7 @@
     width: 530px;
 }
 
-.dol {
+.ent {
     /* bordes */
     border-color: #8c5a2a;
     border-radius: 0%;
@@ -40,7 +40,57 @@
     width: 530px;
 }
 
-.ent {
+.aut {
+    /* bordes */
+    border-color: #8c5a2a;
+    border-radius: 0%;
+    border-style: solid;
+
+    height: 530px;
+    width: 530px;
+}
+
+.conf {
+    /* bordes */
+    border-color: #8c5a2a;
+    border-radius: 0%;
+    border-style: solid;
+
+    height: 530px;
+    width: 530px;
+}
+
+.esp {
+    /* bordes */
+    border-color: #8c5a2a;
+    border-radius: 0%;
+    border-style: solid;
+
+    height: 530px;
+    width: 530px;
+}
+
+.ilu {
+    /* bordes */
+    border-color: #8c5a2a;
+    border-radius: 0%;
+    border-style: solid;
+
+    height: 530px;
+    width: 530px;
+}
+
+.fel {
+    /* bordes */
+    border-color: #8c5a2a;
+    border-radius: 0%;
+    border-style: solid;
+
+    height: 530px;
+    width: 530px;
+}
+
+.ale {
     /* bordes */
     border-color: #8c5a2a;
     border-radius: 0%;
