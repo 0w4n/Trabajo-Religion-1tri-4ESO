@@ -26,6 +26,26 @@
     border-radius: 0%;
     border-style: solid;
 
-    height: 12cm;
-    width: 12cm;
+    height: 530px;
+    width: 530px;
+}
+
+.dol {
+    /* bordes */
+    border-color: #8c5a2a;
+    border-radius: 0%;
+    border-style: solid;
+
+    height: 530px;
+    width: 530px;
+}
+
+.ent {
+    /* bordes */
+    border-color: #8c5a2a;
+    border-radius: 0%;
+    border-style: solid;
+
+    height: 530px;
+    width: 530px;
 }
