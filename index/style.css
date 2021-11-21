@@ -10,26 +10,6 @@
      margin-right: 10px;
 }
 
-.dol {
-    /* bordes */
-    border-color: #8c5a2a;
-    border-radius: 0%;
-    border-style: solid;
-
-    height: 530px;
-    width: 530px;
-}
-
-.suf {
-    /* bordes */
-    border-color: #8c5a2a;
-    border-radius: 0%;
-    border-style: solid;
-
-    height: 530px;
-    width: 530px;
-}
-
 .ent {
     /* bordes */
     border-color: #8c5a2a;
@@ -98,4 +78,64 @@
 
     height: 530px;
     width: 530px;
+}
+
+.dol {
+    /* bordes */
+    border-color: #8c5a2a;
+    border-radius: 0%;
+    border-style: solid;
+
+    height: 530px;
+    width: 530px;
+}
+
+.suf {
+    /* bordes */
+    border-color: #8c5a2a;
+    border-radius: 0%;
+    border-style: solid;
+
+    height: 530px;
+    width: 530px;
+}
+
+.cal {
+    /* bordes */
+    border-color: #8c5a2a;
+    border-radius: 0%;
+    border-style: solid;
+
+    height: 530px;
+    width: 530px;
+}
+
+.mid {
+    /* bordes */
+    border-color: #8c5a2a;
+    border-radius: 0%;
+    border-style: solid;
+
+    height: 530px;
+    width: 530px;
+}
+
+.car{
+    /* bordes */
+    border-color: #8c5a2a;
+    border-radius: 0%;
+    border-style: solid;
+
+    height: 530px;
+    width: 530px;
+}
+
+.rfx-prs {
+        /* bordes */
+        border-color: #8c5a2a;
+        border-radius: 0%;
+        border-style: solid;
+    
+        height: 530px;
+        width: 530px;
 }
